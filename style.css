@@ -1,0 +1,19 @@
+h1{
+ font-size:80%;   
+}
+body {
+    font-family: 'Crimson Pro', serif;
+    font-size: 48px;
+  }
+.name-highlight{
+    color: orange;
+}
+.haif-width{
+    width: 40%;
+    float: left;
+   margin-left: 5%;
+   padding-left: 2%;
+}
+.haif-width img{
+    width: 100%;
+}
