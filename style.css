@@ -45,3 +45,29 @@ background-image: url("images/dream-bg.png");
 background-repeat: no-repeat;
 background-position: right;
 }
+.experience-area{
+background-image: url("images/exp-bg.png");
+background-repeat: no-repeat;
+background-position: left;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    background-color: honeydew;
+    height: 700px;
+}
+#full-stack{
+ border-left: 7px solid green;  
+ border-image: linear-gradient(180deg,lightsalmon,tomato,); 
+ border-image-slice: 1;
+}
+#baby{
+    border-left: 7px solid greenyellow;
+    border-image: linear-gradient(180deg,blue,cyan,); 
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 20px;
+    color: hotpink;
+}
